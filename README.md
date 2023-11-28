@@ -4,7 +4,7 @@ The model employed and fine-tuned here is T5.
 
 ## Overview
 In NLP, T5 stands out as one of the powerful models in handling number of language tasks, including summarization. This summarizer has the vanilla transformer architecture encode and decoder to extract the information from long documents and articles. <br>
-This summarizer is an abstractive text summarization. 
+This summarizer is an abstractive text summarizer. 
 
 ## Key-features
 Abstractive Summarization: Benefit from abstractive summarization, allowing the model to generate human-like summaries that capture the core ideas of the input text.

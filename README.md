@@ -11,6 +11,8 @@ Abstractive Summarization: Benefit from abstractive summarization, allowing the 
 
 Integration-friendly: It can integrated into your applications, projects, or workflows to improve text summarization capabilities. 
 
+## Dataset
+The dataset on which this model is trained is [CNN/Daily mail.](https://paperswithcode.com/dataset/cnn-daily-mail-1)
 
 ## Usage 
 This model is deployed as a web-application. It can be accessed [here.](https://summar-ease.streamlit.app/)

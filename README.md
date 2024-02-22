@@ -15,11 +15,10 @@ Integration-friendly: It can integrated into your applications, projects, or wor
 The dataset on which this model is trained is [CNN/Daily mail.](https://paperswithcode.com/dataset/cnn-daily-mail-1)
 
 ## Usage 
-This model is deployed as a web-application. It can be accessed [here.](https://summar-ease.streamlit.app/)
-It can be run a local machine as well.
+This model is deployed as a web-application and can be accessed [here.](https://summar-ease.streamlit.app/)
+Additionally, it can also be run on a local machine.
 - Download the files ``app.py`` and `requirements.txt` into a directory.
-- In terminal directing to the project directory, run the command `pip install -r requirements.txt` 
-- Also install the streamlit framework by running the command line `pip install streamlit` 
+- In terminal directing to the project directory, run the command `pip install -r requirements.txt`  
 - For launching the app run `streamlit run app.py`.
 
 ## Inference in code
